@@ -16,10 +16,10 @@ npx hardhat help
 .
 
 <h3>Commands:</h3>
-<b>npx hardhat</b>
+<b>npx hardhat</b><br/>
 Select <b>Create a basic sample project</b> after running the above command. It will provide us with some boilerplate codes and directories.
 
-<b>npx hardhat compile</b>
+<b>npx hardhat compile</b><br/>
 <b>npx hardhat run "path_to_script" --network "network_name"</b><br/>
 <b>example: npx hardhat run scripts/deployBeerusSama.js --network rinkeby</b>
 
