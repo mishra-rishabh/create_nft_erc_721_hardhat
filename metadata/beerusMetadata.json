@@ -1,0 +1,42 @@
+{
+  "image": "https://gateway.pinata.cloud/ipfs/QmbS2X5kzTpJtpo6RE3zdMk47iMD2LZ2fx4g17HiE3VCU8?preview=1" ,
+  "tokenId": "1" ,
+  "name": "Beerus Sama" ,
+  "description": "I am the God of destruction." ,
+  "attributes": [
+    {
+      "trait_type": "Gender" ,
+      "value": "Male"
+    } ,
+
+    {
+      "trait_type": "Animal" ,
+      "value": "Cat"
+    } ,
+
+    {
+      "trait_type": "Occupation" ,
+      "value": "God of destruction"
+    } ,
+
+    {
+      "trait_type": "Universe" ,
+      "value": "Seven"
+    } ,
+
+    {
+      "trait_type": "Relatives" ,
+      "value": "Champa (Brother)"
+    } ,
+
+    {
+      "trait_type": "Mentor" ,
+      "value": "Whis"
+    } ,
+
+    {
+      "trait_type": "Student" ,
+      "value": "Vegeta"
+    }
+  ]
+}

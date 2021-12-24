@@ -1,0 +1,38 @@
+{
+  "name": "create_nft",
+  "version": "1.0.0",
+  "description": "create nft (erc 721) using openzeppelin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishra-rishabh/create_nft_erc_721_hardhat.git"
+  },
+  "keywords": [
+    "nft",
+    "hardhat",
+    "erc721",
+    "openzeppelin",
+    "opensea"
+  ],
+  "author": "Rishabh Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishra-rishabh/create_nft_erc_721_hardhat/issues"
+  },
+  "homepage": "https://github.com/mishra-rishabh/create_nft_erc_721_hardhat#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-etherscan": "^2.1.8",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@pinata/sdk": "^1.1.23",
+    "dotenv": "^10.0.0"
+  }
+}
