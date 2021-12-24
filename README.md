@@ -20,7 +20,7 @@ npx hardhat help
 Select <b>Create a basic sample project</b> after running the above command. It will provide us with some boilerplate codes and directories.
 
 <b>npx hardhat compile</b>
-<b>npx hardhat run "path_to_script" --network "network_name"</b>
+<b>npx hardhat run "path_to_script" --network "network_name"</b><br/>
 <b>example: npx hardhat run scripts/deployBeerusSama.js --network rinkeby</b>
 
 Pin file to ipfs using pinata sdk:
